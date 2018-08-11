@@ -1,0 +1,18 @@
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\bin\Debug\DekoratorOdevi.exe.config
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\bin\Debug\DekoratorOdevi.exe
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\bin\Debug\DekoratorOdevi.pdb
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.exe
+C:\Users\Serap\Desktop\nesne\proje\MezunBilgiSistemi\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.pdb
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\bin\Debug\DekoratorOdevi.exe.config
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.exe
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.pdb
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\bin\Debug\DekoratorOdevi.exe
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\bin\Debug\DekoratorOdevi.pdb
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.Form1.resources
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\DekoratorOdevi\DekoratorOdevi\obj\Debug\DekoratorOdevi.csproj.GenerateResource.Cache
